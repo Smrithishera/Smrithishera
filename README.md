@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Smrithishera
-- 👀 I’m interested in ... Development in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning ... Deep Learning and Neural Networks!!!
-- 📫 How to reach me ...sherafdo286@gmail.com
+AI Specialist | Software Developer | Innovator
 
-<!---
-Smrithishera/Smrithishera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about advancing safe AI in software development, security, and app development. Diamond Medalist in Google Skill Boost, with expertise in AI, Data Analysis, and solving 400+ coding problems. 
+Let's innovate the future together!
